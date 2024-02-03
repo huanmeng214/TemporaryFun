@@ -8,3 +8,5 @@
 <p src="https://github.com/RVC-Boss/GPT-SoVITS">【语音转换/声音克隆】:https://github.com/RVC-Boss/GPT-SoVITS</p>
 <p src="https://github.com/netease-youdao/QAnything">【本地知识库问答系统，可断网安装使用】:https://github.com/netease-youdao/QAnything</p>
 <p src="https://github.com/xiaolai/everyone-can-use-english">【英语学习】:https://github.com/xiaolai/everyone-can-use-english</p>
+
+<p src="https://github.com/hiroi-sora/Umi-OCR">【本地OCR图文识别，可断网安装使用】https://github.com/hiroi-sora/Umi-OCR</p>
