@@ -5,4 +5,4 @@
  <p align="center">获取有趣的项目或者网站链接</p>
 </p>
 <p src="https://github.com/lizongying/my-tv">【电视直播软件】:https://github.com/lizongying/my-tv</p>
-<p src="https://github.com/RVC-Boss/GPT-SoVITS">【语言转换】:https://github.com/RVC-Boss/GPT-SoVITS</p>
+<p src="https://github.com/RVC-Boss/GPT-SoVITS">【语音转换/声音克隆】:https://github.com/RVC-Boss/GPT-SoVITS</p>
